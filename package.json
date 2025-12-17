@@ -1,0 +1,15 @@
+{
+  "name": "survey_insights",
+  "version": "1.0.0",
+  "description": "A desktop application for teacher's union to aggregate survey results, create presentations, and create graphics.",
+  "license": "MIT",
+  "author": "Reid Minton and Riley",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^39.2.7"
+  }
+}
